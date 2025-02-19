@@ -69,9 +69,9 @@ Nesta seção, você pode incluir imagens e gráficos que demonstram os resultad
 - **Análise de Gargalos:**  
   ![Bottleneck Analysis](https://raw.githubusercontent.com/Natsuzera/SmartPlateDetection/master/notebooks/analise_final/bottleneck_analysis.png)
 - **Valida vs. Inválida:**  
-  ![Validation Comparison](notebooks\analise_visual\validas_vs_invalidas.png)
+  ![Validation Comparison](https://raw.githubusercontent.com/Natsuzera/SmartPlateDetection/master/notebooks/analise_visual/validas_vs_invalidas.png)
 - **Comparação de Validações:**  
-  ![Valid vs Invalid](notebooks\analise_final\comparacao_validacoes.png)
+  ![Valid vs Invalid](https://raw.githubusercontent.com/Natsuzera/SmartPlateDetection/master/notebooks/analise_final/comparacao_validacoes.png)
 
 Atualize esta seção com novas imagens e descrições conforme necessário.
 
