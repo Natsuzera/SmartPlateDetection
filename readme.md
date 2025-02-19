@@ -67,7 +67,7 @@ pip install easyocr
 Nesta seção, você pode incluir imagens e gráficos que demonstram os resultados e análises do desempenho do sistema. Exemplos de imagens que podem ser adicionadas:
 
 - **Análise de Gargalos:**  
-  ![Bottleneck Analysis](notebooks\analise_final\bottleneck_analysis.png)
+  ![Bottleneck Analysis](https://raw.githubusercontent.com/Natsuzera/SmartPlateDetection/master/notebooks/analise_final/bottleneck_analysis.png)
 - **Valida vs. Inválida:**  
   ![Validation Comparison](notebooks\analise_visual\validas_vs_invalidas.png)
 - **Comparação de Validações:**  
